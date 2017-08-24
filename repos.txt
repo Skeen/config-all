@@ -1,3 +1,4 @@
-git@github.com:Skeen/xfce4-config.git
-git@github.com:Skeen/.vimrc.git
-git@github.com:Skeen/bin.git
+git@github.com:Skeen/config-bin.git
+git@github.com:Skeen/config-vim.git
+git@github.com:Skeen/config-fish.git
+git@github.com:Skeen/config-xfce4.git
