@@ -9,6 +9,7 @@ function setup_repo {
     git clone $repo $tmp_folder
     cd $tmp_folder
     ./setup.sh
+    rm -rf $tmp_folder
 }
 
 cd $DIR
